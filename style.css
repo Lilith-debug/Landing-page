@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: sans-serif;
 }
 
 ul {
@@ -58,7 +59,7 @@ a,
 
 .main-title {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #F9FAF8
 }
 
@@ -68,10 +69,20 @@ a,
 }
 
 .presentation-button {
+    color: #F9FAF8;
     background-color: #3882F6;
+    font-size: 16px;
+    font-weight: bold;
+    width: 120px;
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
 }
 
 .presentation-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color:lightslategrey;
     flex: 1 1 auto;
     width: 500px;
