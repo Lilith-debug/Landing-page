@@ -30,9 +30,12 @@ a,
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 16px;;
+    padding: 16px;
+    width: 1000px;
+    margin: 0 -36px 0 36px;
+    flex: 1 1 auto;
 }
 
 .header-logo {
@@ -45,7 +48,9 @@ a,
     display: flex;
     justify-content: space-around;
     padding: 48px;
-    gap: 56px;
+    gap: 48px;
+    width: 1000px;
+    flex: 1 1 auto;
 }
 
 .presentation-text {
@@ -116,7 +121,7 @@ a,
 
 .card-subtext {
     font-size: 18px;
-
+    color: #1f2937;
 }
 
 .footer {
