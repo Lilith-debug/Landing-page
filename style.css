@@ -64,14 +64,14 @@ a,
 }
 
 .presentation-subtext {
-    font: 18px;
+    font-size: 18px;
     color: #E5E7EB;
 }
 
 .presentation-button {
     color: #F9FAF8;
     background-color: #3882F6;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     width: 120px;
     padding: 8px;
@@ -97,6 +97,9 @@ a,
 .second-title {
     display: flex;
     justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
 }
 
 .deck {
@@ -109,7 +112,12 @@ a,
     flex-direction: column;
     flex-wrap: wrap;
     width: 150px;
-} 
+}
+
+.card-subtext {
+    font-size: 18px;
+
+}
 
 .footer {
     justify-content: center;
