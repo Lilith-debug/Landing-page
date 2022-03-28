@@ -88,6 +88,24 @@ a,
     width: 500px;
 }
 
+.second-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.second-title {
+    display: flex;
+}
+
+.deck {
+    display: flex;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+} 
+
 .footer {
     justify-content: center;
     align-items: center;
