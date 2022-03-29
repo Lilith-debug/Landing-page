@@ -173,9 +173,15 @@ a,
     justify-content: space-around;
     align-items: center;
     background-color: #3882F6;
-    padding: 36px;
-    width: 1000px;
+    padding: 36px 0;
+    width: 1100px;
     border-radius: 8px;
+}
+
+.call-title {
+    color:#F9FAF8;
+    font-size: 26px;
+    font-weight: bolder;
 }
 .footer {
     justify-content: center;
