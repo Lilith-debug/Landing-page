@@ -185,6 +185,23 @@ a,
     font-size: 26px;
     font-weight: bolder;
 }
+
+.call-subtext {
+    color:#E5E7EB;
+}
+
+.call-button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    font-size: 18px;
+    font-weight: bold;
+    width: 120px;
+    padding: 8px;
+    border-radius: 6px;
+    border: solid #F9FAF8;
+    border-width: 2px;
+}
+}
 .footer {
     justify-content: center;
     align-items: center;
