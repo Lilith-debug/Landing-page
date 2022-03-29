@@ -135,6 +135,13 @@ a,
     text-align: center;
 }
 
+.third-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
 .footer {
     justify-content: center;
     align-items: center;
