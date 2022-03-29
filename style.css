@@ -160,6 +160,23 @@ a,
     width: 850px;
     margin-bottom: 104px;
 }
+
+.fourth-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 96px 0;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 36px;
+    width: 1000px;
+    border-radius: 8px;
+}
 .footer {
     justify-content: center;
     align-items: center;
