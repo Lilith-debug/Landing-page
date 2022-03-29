@@ -142,6 +142,22 @@ a,
     align-items: center;
     background-color: #E5E7EB;
 }
+
+.quote {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+    text-align: left;
+    width: 950px;
+}
+
+.quote-author {
+    font-size: 28px;
+    color: #1f2937;
+    font-weight: bolder;
+    text-align: right;
+    width: 850px;
+}
 .footer {
     justify-content: center;
     align-items: center;
