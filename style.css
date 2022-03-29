@@ -170,13 +170,13 @@ a,
 
 .call-to-action {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     background-color: #3882F6;
-    padding: 44px;
-    padding-left: 0;
-    padding-right: 0;
-    width: 1200px;
+    padding: 56px;
+    padding-left: 160px;
+    padding-right: 160px;
+    width: 900px;
     border-radius: 8px;
 }
 
@@ -201,9 +201,9 @@ a,
     border: solid #F9FAF8;
     border-width: 2px;
 }
-}
+
 .footer {
     justify-content: center;
     align-items: center;
-    padding: 16px
+    padding: 40px
 }
