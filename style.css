@@ -148,15 +148,17 @@ a,
     font-style: light italic;
     color: #1f2937;
     text-align: left;
-    width: 950px;
+    width: 900px;
+    margin-top: 132px;
 }
 
 .quote-author {
-    font-size: 28px;
+    font-size: 26px;
     color: #1f2937;
     font-weight: bolder;
     text-align: right;
     width: 850px;
+    margin-bottom: 104px;
 }
 .footer {
     justify-content: center;
