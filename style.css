@@ -116,12 +116,19 @@ a,
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 150px;
+    width: 200px;
 }
 
+.card-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 16px;
+    border: solid #3882F6;
+}
 .card-subtext {
     font-size: 18px;
     color: #1f2937;
+    text-align: center;
 }
 
 .footer {
